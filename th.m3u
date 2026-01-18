@@ -1,0 +1,49 @@
+#EXTM3U refresh="3600"
+
+#EXTINF:-1 tvg-chno="3" ch-number="3" tvg-name="CH3" group-title="Digital TV", CH3
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://de2.cdn.vet/live/ch3/i/ch3i.m3u8?sid=bjeMjE0NTYyZWUxNDk2NDRmMWVkYgNDExNDk2ZjdiZTZiMmU2
+
+#EXTINF:-1 tvg-chno="5" ch-number="5" tvg-name="CH5" group-title="Digital TV", CH5
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://de2.cdn.vet/live/ch5/i/ch5i.m3u8?sid=bjeNDAwNTc3ZWM3ZDFhNmM2NzAzNAMTg5MjIxNmIyZjZjM2Uz
+
+#EXTINF:-1 tvg-chno="9" ch-number="9" tvg-name="CH9" group-title="Digital TV", CH9
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://de2.cdn.vet/live/ch9/i/ch9i.m3u8?sid=bjeMWM3OWM0ZTVkZWVjODZmZWZiZQMzYzZDcxOTk2MGY3YmI5
+
+#EXTINF:-1 tvg-chno="11" ch-number="11" tvg-name="NBT" group-title="Digital TV", NBT
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://de2.cdn.vet/live/ch11/i/ch11i.m3u8?sid=bjeOWQ3YTVjMzgyZGI2M2M0YTRhMwNGZiNWM2ODY5M2ZjYTQw
+
+#EXTINF:-1 tvg-chno="37" ch-number="37" tvg-name="Nation" group-title="Digital TV", Nation
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://de2.cdn.vet/live/ch37/i/ch37i.m3u8?sid=bjeNzRhNDZkODZhZDM4NWRhMzk1YQOTdkMDQ2Yzg5YTFjMzJl
+
+#EXTINF:-1 tvg-chno="33" ch-number="33" tvg-name="8" group-title="Digital TV", 8
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://de2.cdn.vet/live/ch33/i/ch33i.m3u8?sid=bjeNTIwYWIzMjlkYTlhMmU1MWIxNQOWYxZWU5OTgzMTE2NmQw
+
+#EXTINF:-1 tvg-chno="25" ch-number="25" tvg-name="PPTV HD" group-title="Digital TV", PPTV HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://de2.cdn.vet/live/ch25/i/ch25i.m3u8?sid=bjeMDM2NDY5MzNlOGYzMTIyMDFlZANWZmMGIyNTFjOGIxOTU0
+
+#EXTINF:-1 tvg-chno="0" ch-number="0" tvg-name="GMM 25" group-title="Digital TV", GMM 25
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://de2.cdn.vet/live/ch0/i/ch0i.m3u8?sid=bjeNTk0MmVmYWJiNTUwYWZiZmE2ZAMmQ1ODY0NTA4ZTNiOGJi
+
+#EXTINF:-1 tvg-chno="26" ch-number="26" tvg-name="ch26" group-title="Digital TV", ch26
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://de2.cdn.vet/live/ch26/i/ch26i.m3u8?sid=bjeMjQ2MjAzYjhjNjUwOWE0YTRlOAN2I0OTBjZWMzNjMzZGFh
+
+#EXTINF:-1 tvg-chno="1" ch-number="1" tvg-name="Thai PBS" group-title="Digital TV", Thai PBS
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://de2.cdn.vet/live/ch1/i/ch1i.m3u8?sid=bjeMmEwMjg1ZTcxMjA3MjdlMmIwNwODEzNTgxODFkMmVhNTBj
+
+#EXTINF:-1 tvg-chno="39" ch-number="39" tvg-name="ch39" group-title="Digital TV", ch39
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://de2.cdn.vet/live/ch39/i/ch39i.m3u8?sid=bjeODM5OTVlYjhjODdhYzg3YWZlZgNWI5NTEyNTVlYmYzMDEx
+
+#EXTINF:-1 tvg-chno="38" ch-number="38" tvg-name="MONO29" group-title="Digital TV", MONO29
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://de2.cdn.vet/live/ch38/i/ch38i.m3u8?sid=bjeM2U4ZDhkZTU2MDA0NGQyM2M1ZgOTYzNGM3MTk5NTEzOGY5
